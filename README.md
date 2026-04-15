@@ -1,6 +1,6 @@
 # Welding_Gun_Repair_Tracker
 ### Description
-Program to track repairs of welding guns in a fitting and turning workplace. Built for a client in 2024 as a highschool VCE Software Development Project.
+Project to track repairs of welding guns in a fitting and turning workplace. Built for a client in 2024 as a highschool VCE Software Development Project.
 <br>
 ### Installation
 Download WeldingGunTracker folder and WeldinGunTracker.sln
